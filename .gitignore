@@ -1,0 +1,17 @@
+# Ignorar arquivos binários compilados
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dll
+*.dSYM/
+
+# Ignorar diretórios específicos de build
+/build/
+/bin/
+/obj/
+
+# Ignorar outros arquivos temporários
+*.log
+*.tmp
