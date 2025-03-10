@@ -6,22 +6,16 @@ void sequenceSmaller(char *s, char *r, int sizeS, int sizeR){
 
     for(int i = 0; i < smallSize; i++)
     {
-        if(s[i] > r[i])
+        if(r[i] < s[i])
         {
             printf("Sequence of R is smaller.\n");
             return;
-        }else if(r[i] > s[i])
-        {
-            printf("Sequence of R is greater.\n");
+        }else if (r[i] > s[i]) 
             return;
-        }
     }
 
-    if(sizeR > sizeS)
-     printf("Sequence of R is greater.\n");
-    else
+    if(sizeR < sizeS)
      printf("Sequence of R is smaller.\n");
-
 }
 
 
