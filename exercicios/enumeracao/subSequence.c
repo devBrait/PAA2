@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int decideSubSequence(int *s, int *a, int sizeS, int sizeA){
+void decideSubSequence(int *s, int *a, int sizeS, int sizeA){
     int total = 0;
 
     for(int i = 0; i < sizeA; i++)
