@@ -1,3 +1,8 @@
+/*
+    Exercício 4 Enumeração ->
+    Escreva uma função booleana na linguagem C que receba duas sequências e
+    decida se a sequência s[i..k] é um segmento da sequência a[1..n]
+*/
 #include <stdio.h>
 
 void decideSegSequence(int a[], int s[], int sizeA, int sizeS){

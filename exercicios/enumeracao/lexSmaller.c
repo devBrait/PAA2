@@ -1,3 +1,9 @@
+/*
+    Exercício 1 Enumeração ->
+    Escreva uma função booleana na linguagem C que receba duas sequências e
+    decida se uma sequência r[1..j] é lexicograficamente menor que uma
+    sequência s[1..k].
+*/
 #include <stdio.h>
 
 void sequenceSmaller(char *s, char *r, int sizeS, int sizeR){
