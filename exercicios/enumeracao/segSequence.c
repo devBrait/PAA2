@@ -20,7 +20,7 @@ void decideSegSequence(int a[], int s[], int sizeA, int sizeS){
         {
             total++;
             index = i;
-            for(int j = 1; j < sizeS - 1; j++)
+            for(int j = 1; j < sizeS; j++)
             {
                 index++;
                 if(s[j] == a[index] && total < sizeS)
