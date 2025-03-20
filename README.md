@@ -12,6 +12,9 @@ Exercícios da disciplina de **Projeto e Análise de Algoritmos 2**, utilizando 
 - **[Exercício 5 - countSubSequence.c](https://github.com/devBrait/PAA2/blob/main/exercicios/enumeracao/countSubSequence.c)**
 - **[Exercício 6 - segCrescent.c](https://github.com/devBrait/PAA2/blob/main/exercicios/enumeracao/segCrescent.c)**
 - **[Exercício 7 - equalSeg.c](https://github.com/devBrait/PAA2/blob/main/exercicios/enumeracao/equalSeg.c)**
+- **[Exercício 8 - segSumMax.c](https://github.com/devBrait/PAA2/blob/main/exercicios/enumeracao/segSumMax.c)**
+- **[Exercício 9 - sortSequence.c](https://github.com/devBrait/PAA2/blob/main/exercicios/enumeracao/sortSequence.c)**
+- **[Desafio - enumAllSequence.c](https://github.com/devBrait/PAA2/blob/main/exercicios/enumeracao/enumAllSequence.c)**
 
 ### 🔄 Backtracking
 - **[binaryNumber.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/binaryNumber.c)**
