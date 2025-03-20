@@ -1,5 +1,5 @@
 /*
-    Exercício Backtracking ->
+    Exercício 1 - Lista 01 - Backtracking ->
     Escreva uma função recursiva que apresente números binários de tamanho n.
     • Exemplo: n = 3
     Saída :
