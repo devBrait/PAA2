@@ -8,7 +8,7 @@
 */
 #include <stdio.h>
 
-void defineGoals(int m, int n, char *sequence, int size, int pos){
+void defineGoals(int m, int n, char *sequence, int pos){
 
     if (m == 0 && n == 0) {
         sequence[pos] = '\0';
@@ -18,12 +18,12 @@ void defineGoals(int m, int n, char *sequence, int size, int pos){
 
     if(m > 0){
         sequence[pos] = 'A';
-        defineGoals(m - 1, n, sequence, size, pos + 1);
+        defineGoals(m - 1, n, sequence, pos + 1);
     }
     
     if(n > 0){
         sequence[pos] = 'B';
-        defineGoals(m, n - 1, sequence, size, pos + 1);
+        defineGoals(m, n - 1, sequence, pos + 1);
     }
 }
 
@@ -31,7 +31,6 @@ int main(){
     int m = 3;
     int n = 1;
     char sequence[m + n];
-    int size = sizeof(sequence);
 
-    defineGoals(m, n, sequence, size, 0);
+    defineGoals(m, n, sequence, 0);
 }
