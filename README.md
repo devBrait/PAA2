@@ -18,12 +18,12 @@ Exercícios da disciplina de **Projeto e Análise de Algoritmos 2**, utilizando 
 
 ### 🔄 Backtracking
   #### Lista 5.1
-  - **[binaryNumber.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/binaryNumber.c)**
-  - **[finalGoals.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/finalGoals.c)**
+  - **[Exercício 1 - binaryNumber.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/binaryNumber.c)**
+  - **[Exercício 2 - finalGoals.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/finalGoals.c)**
+  - **[Exercício 3 - sudoku.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/sudoku.c)**
   #### Lista 5.3
-  - **[check.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/check.c)**
+  - **[Exercício 5 - check.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/check.c)**
    
-
 ### 📋 MiniLista
 - **[at01.c](https://github.com/devBrait/PAA2/blob/main/miniLista/at01.c)**
 
