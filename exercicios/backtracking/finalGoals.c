@@ -1,5 +1,5 @@
 /*
-    Exercício 2 - Lista 01 - Backtracking ->
+    Exercício 2 - Lista 5.1 - Backtracking ->
     Considere uma partida de futebol entre duas equipes A × B, cujo placar final é m × n,
     em que m e n são número de gols marcados por A e B, respectivamente. Escreva um
     algoritmo recursivo que imprima todas as possíveis sucessões de gols marcados. Por

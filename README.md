@@ -17,7 +17,12 @@ Exercícios da disciplina de **Projeto e Análise de Algoritmos 2**, utilizando 
 - **[Desafio - enumAllSequence.c](https://github.com/devBrait/PAA2/blob/main/exercicios/enumeracao/enumAllSequence.c)**
 
 ### 🔄 Backtracking
-- **[binaryNumber.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/binaryNumber.c)**
+  #### Lista 5.1
+  - **[binaryNumber.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/binaryNumber.c)**
+  - **[finalGoals.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/finalGoals.c)**
+  #### Lista 5.3
+  - **[check.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/check.c)**
+   
 
 ### 📋 MiniLista
 - **[at01.c](https://github.com/devBrait/PAA2/blob/main/miniLista/at01.c)**
