@@ -22,6 +22,7 @@ Exercícios da disciplina de **Projeto e Análise de Algoritmos 2**, utilizando 
   - **[Exercício 2 - finalGoals.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/finalGoals.c)**
   - **[Exercício 3 - sudoku.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/sudoku.c)**
   #### Lista 5.3
+  - **[Exercício 1 - sort.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/sort.c)**
   - **[Exercício 5 - check.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/check.c)**
   #### Aleatórios
   - **[Organização de Equipes em Torneio Utilizando Permutação - teams.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/teams.c)**
