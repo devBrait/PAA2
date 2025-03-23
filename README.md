@@ -23,7 +23,12 @@ Exercícios da disciplina de **Projeto e Análise de Algoritmos 2**, utilizando 
   - **[Exercício 3 - sudoku.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/sudoku.c)**
   #### Lista 5.3
   - **[Exercício 5 - check.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/check.c)**
-   
+  #### Aleatórios
+  - **[Organização de Equipes em Torneio Utilizando Permutação - teams.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/teams.c)**
+  - **[Maior elemento em uma lista - greaterNumber.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/greaterNumber.c)**
+  - **[Desafio das Torres - towers.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/towers.c)**
+  - **[Geração de Combinações com Trocas Adjacentes - swapSingle.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/swapSingle.c)**
+
 ### 📋 MiniLista
 - **[at01.c](https://github.com/devBrait/PAA2/blob/main/miniLista/at01.c)**
 

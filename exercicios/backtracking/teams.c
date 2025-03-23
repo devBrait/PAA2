@@ -24,9 +24,9 @@
 
 #include <stdio.h>
 
-void defineNumbers(int n[], int sizeN, int init, int end){
+void defineNumbers(int n[], int sizeN, int pos){
 
-    if (init == end) {
+    if (pos == sizeN - 1) {
         for (int i = 0; i < sizeN; i++) {
             printf("%d ", n[i]);
         }
@@ -34,16 +34,16 @@ void defineNumbers(int n[], int sizeN, int init, int end){
         return;
     }
 
-    for (int j = init; j <= end; j++) {
+    for (int j = pos; j < sizeN; j++) {
 
-        int temp = n[init];
-        n[init] = n[j];
+        int temp = n[pos];
+        n[pos] = n[j];
         n[j] = temp;
 
-        defineNumbers(n, sizeN, init + 1, end);
+        defineNumbers(n, sizeN, pos + 1);
         
-        temp = n[init];
-        n[init] = n[j];
+        temp = n[pos];
+        n[pos] = n[j];
         n[j] = temp;
     }
 }
@@ -53,7 +53,7 @@ int main(){
     int n[] = {1, 2, 3};
     int sizeN = sizeof(n) / sizeof(n[0]);
 
-    defineNumbers(n, sizeN, 0, sizeN - 1);
+    defineNumbers(n, sizeN, 0);
 
     return 0;
 }

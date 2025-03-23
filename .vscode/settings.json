@@ -1,5 +1,11 @@
 {
     "files.associations": {
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "deque": "c",
+        "initializer_list": "c",
+        "stack": "c",
+        "utility": "c",
+        "xstring": "c",
+        "xutility": "c"
     }
 }
