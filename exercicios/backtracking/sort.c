@@ -30,9 +30,9 @@ void sort(int n[], int sizeN, int pos) {
         return;
     }
 
-    for (int i = pos; i < sizeN; i++) {
-        if (i != pos && n[i] == n[pos]) continue;
+    if(pos >= sizeN) return;
 
+    for (int i = pos; i < sizeN; i++) {
         int temp = n[pos];
         n[pos] = n[i];
         n[i] = temp;
