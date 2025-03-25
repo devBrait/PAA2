@@ -4,10 +4,9 @@
     na linguagem C determinar um segmento de soma máxima.
     Exemplo: Na sequência 5 2 -2 -7 3 14 10 -3 9 -6 4 1, a soma do
     segmento é 33.
-*/
-#include <stdio.h>
 
-void defineSegSumMax(int s[], int sizeS){
+    Solução O(n):
+    void defineSegSumMax(int s[], int sizeS){
     int temp = s[0];
     int greater = s[0];
 
@@ -20,6 +19,27 @@ void defineSegSumMax(int s[], int sizeS){
 
         if(temp > greater){
             greater = temp;
+        }
+    }
+
+    printf("%d\n", greater);
+}
+
+
+*/
+#include <stdio.h>
+
+void defineSegSumMax(int s[], int sizeS){
+    int temp, greater;
+    greater = s[0];
+
+    for(int i = 0; i < sizeS; i++){
+        temp = 0;
+        for(int j = i; j < sizeS; j++){
+            temp += s[j];
+            if(temp > greater){
+                greater = temp;
+            }
         }
     }
 
