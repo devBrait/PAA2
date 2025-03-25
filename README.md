@@ -28,7 +28,10 @@ Exercícios da disciplina de **Projeto e Análise de Algoritmos 2**, utilizando 
   - **[Organização de Equipes em Torneio Utilizando Permutação - teams.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/teams.c)**
   - **[Maior elemento em uma lista - greaterNumber.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/greaterNumber.c)**
   - **[Desafio das Torres - towers.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/towers.c)**
-  - **[Geração de Combinações com Trocas Adjacentes - swapSingle.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/swapSingle.c)**
+  - **[Geração de Combinações com Trocas Adjacentes - swapSingle.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/swapSingle.c)**  
+  - **[MDC - mdc.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/mdc.c)**
+  - **[Coeficiente Binomial - coef.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/coef.c)**
+  - **[Soma Permutada Elegante - sumElegant.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/sumElegant.c)**
 
 ### 📋 MiniLista
 - **[at01.c](https://github.com/devBrait/PAA2/blob/main/miniLista/at01.c)**
