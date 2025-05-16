@@ -36,6 +36,9 @@ Exercícios da disciplina de **Projeto e Análise de Algoritmos 2**, utilizando 
 ### 💰 Gulosos
   - **[Exercício 1 - change.c](https://github.com/devBrait/PAA2/blob/main/exercicios/gulosos/change.c)**
   - **[Exercício 2 - localMail.c](https://github.com/devBrait/PAA2/blob/main/exercicios/gulosos/localMail.c)**
+  - **[Exercício 3/5 - localMail.c](https://github.com/devBrait/PAA2/blob/main/exercicios/gulosos/selectActivity.c)**
+### Programação Dinâmica 
+
 
 ### 📋 MiniLista
 - **[at01.c](https://github.com/devBrait/PAA2/blob/main/miniLista/at01.c)**
