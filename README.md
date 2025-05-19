@@ -37,11 +37,11 @@ Exercícios da disciplina de **Projeto e Análise de Algoritmos 2**, utilizando 
   #### Lista S9
   - **[Exercício 1 - change.c](https://github.com/devBrait/PAA2/blob/main/exercicios/gulosos/change.c)**
   - **[Exercício 2 - localMail.c](https://github.com/devBrait/PAA2/blob/main/exercicios/gulosos/localMail.c)**
-  - **[Exercício 3/5 - localMail.c](https://github.com/devBrait/PAA2/blob/main/exercicios/gulosos/selectActivity.c)**
+  - **[Exercício 3/5 - selectActivity.c](https://github.com/devBrait/PAA2/blob/main/exercicios/gulosos/selectActivity.c)**
   #### Lista S12
   - **[Exercício 3 - digitalFiles.c](https://github.com/devBrait/PAA2/blob/main/exercicios/gulosos/digitalFiles.c)**
   - **[Exercício 4 - tripStops.c](https://github.com/devBrait/PAA2/blob/main/exercicios/gulosos/tripStops.c)**
-### Programação Dinâmica 
+### 🧮 Programação Dinâmica 
   #### Lista S12
   - **[Exercício 1 - change.c](https://github.com/devBrait/PAA2/blob/main/exercicios/dp/change.c)**
   - **[Exercício 15 - cutRod.c](https://github.com/devBrait/PAA2/blob/main/exercicios/dp/cutRod.c)**

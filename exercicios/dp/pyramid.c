@@ -1,5 +1,5 @@
 /*
-    
+    Problema da pirâmide
 */
 
 #include <stdio.h>
