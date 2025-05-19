@@ -34,9 +34,11 @@ Exercícios da disciplina de **Projeto e Análise de Algoritmos 2**, utilizando 
   - **[Soma Permutada Elegante - sumElegant.c](https://github.com/devBrait/PAA2/blob/main/exercicios/backtracking/sumElegant.c)**
 
 ### 💰 Gulosos
+  #### Lista S9
   - **[Exercício 1 - change.c](https://github.com/devBrait/PAA2/blob/main/exercicios/gulosos/change.c)**
   - **[Exercício 2 - localMail.c](https://github.com/devBrait/PAA2/blob/main/exercicios/gulosos/localMail.c)**
   - **[Exercício 3/5 - localMail.c](https://github.com/devBrait/PAA2/blob/main/exercicios/gulosos/selectActivity.c)**
+  #### Lista S12
 ### Programação Dinâmica 
 
 
