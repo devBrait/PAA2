@@ -1,5 +1,5 @@
 /*
-    2) No correio local há somente selos de 3 e de 5 centavos. A taxa mínima para
+    Exercício 2 - Semana 9 -> No correio local há somente selos de 3 e de 5 centavos. A taxa mínima para
     correspondência é de 8 centavos. Faça um programa que determina o menor
     número de selos de 3 e de 5 centavos que completam o valor de uma taxa dada.
 */
