@@ -33,7 +33,7 @@ void sortItems(Item items[], int n) {
     qsort(items, n, sizeof(Item), compare);
 }
 
-double fractionalKnapsack(Item items[], int n, double capacity) {
+double fractionalBackpack(Item items[], int n, double capacity) {
     double totalValue = 0.0;
     double remainingCapacity = capacity;
 
@@ -70,7 +70,7 @@ int main() {
 
     fillItems(items, weights, values, n);
     sortItems(items, n);
-    double totalValue = fractionalKnapsack(items, n, capacity);
+    double totalValue = fractionalBackpack(items, n, capacity);
 
     printf("\nTotal na mochila = %.2lf\n", totalValue);
 

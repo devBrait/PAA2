@@ -46,6 +46,7 @@ Exercícios da disciplina de **Projeto e Análise de Algoritmos 2**, utilizando 
 ### 🧮 Programação Dinâmica 
   #### Lista S12
   - **[Exercício 1 - change.c](https://github.com/devBrait/PAA2/blob/main/exercicios/dp/change.c)**
+  - **[Exercício 12 - backpack.c](https://github.com/devBrait/PAA2/blob/main/exercicios/dp/backpack.c)**
   - **[Exercício 15 - cutRod.c](https://github.com/devBrait/PAA2/blob/main/exercicios/dp/cutRod.c)**
 
 ### 📋 MiniLista
