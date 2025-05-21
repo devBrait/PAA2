@@ -41,6 +41,8 @@ Exercícios da disciplina de **Projeto e Análise de Algoritmos 2**, utilizando 
   #### Lista S12
   - **[Exercício 3 - digitalFiles.c](https://github.com/devBrait/PAA2/blob/main/exercicios/gulosos/digitalFiles.c)**
   - **[Exercício 4 - tripStops.c](https://github.com/devBrait/PAA2/blob/main/exercicios/gulosos/tripStops.c)**
+  - **[Exercício 5 - backpack.c](https://github.com/devBrait/PAA2/blob/main/exercicios/gulosos/backpack.c)**
+  - **[Exercício 6 - diet.c](https://github.com/devBrait/PAA2/blob/main/exercicios/gulosos/diet.c)**
 ### 🧮 Programação Dinâmica 
   #### Lista S12
   - **[Exercício 1 - change.c](https://github.com/devBrait/PAA2/blob/main/exercicios/dp/change.c)**
